@@ -12,5 +12,9 @@ Segura
 
 
 
-meu primeiro projeto usando git e github
+meu primeiro projeto usando git e GitHub
+
+
+
+estou fazendo outras alterações sozinho
 
